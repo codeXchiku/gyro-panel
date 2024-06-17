@@ -8,7 +8,11 @@
     "@testing-library/user-event": "^13.5.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
+    "react-drone-hud": "^0.0.1-rc0",
+    "react-router-dom": "^6.23.1",
     "react-scripts": "5.0.1",
+    "react-speedometer": "^0.1.2",
+    "react-typescript-flight-indicators": "^1.0.4",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
