@@ -9,7 +9,7 @@ const PreFlight = () => {
           <button className={preflightcss.btn}>Edit</button>
         </div>
 
-        <div style={{color:"white"}}>
+        <div>
           
           <div className={preflightcss.childcontainer}>
             <div style={{marginLeft:'0.5rem'}}>Verify Gps</div>
